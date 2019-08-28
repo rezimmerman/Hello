@@ -13,7 +13,8 @@ int main(int argc, char **argv)
 
 {
 
-printf("Reid Zimmerman and Ben Finnegan\n");
+printf("My name is Reid Zimmerman.\n I am an Electrical Engineering Major.\n");
+
 return 0;
 
 }
