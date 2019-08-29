@@ -3,7 +3,7 @@
 #include<math.h>   \\Basic Mathematical Operations
 
 /**
-* Author: Reid Zimmerman, Ben Finnegan
+* Author: Reid Zimmerman
 * Date: 8/27/2019
 *
 * A simple hello world program in C
